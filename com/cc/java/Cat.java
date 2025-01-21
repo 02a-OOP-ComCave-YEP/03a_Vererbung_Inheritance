@@ -42,7 +42,7 @@ public class Cat {
             case 3:
                 return "Talk to the hand!"; // 3rd time 
             default:
-                return "fuck off"; //4th ++
+                return "Fuck off"; //4th ++
         }
 
     }
